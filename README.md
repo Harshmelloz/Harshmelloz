@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Harshmelloz
-- 👀 I’m interested in UX Engineering, UI Design, and Virtual / Augmented Reality
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Caleb!
+- 👀 I’m interested in the UI/UX complications of replacing your laptop with augmented reality glasses and an AI assistant.
+- 🌱 I’m currently learning Python, GDscript, C#. 
 - 💞️ I’m looking to collaborate on anything.
 - 📫 Email me: connect@harsh.rocks
 
